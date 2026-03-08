@@ -20,15 +20,6 @@ The goal of this project is to practice building a responsive user interface usi
 - Built using Tailwind utility classes only
 - No custom CSS used
   
-```
-
-## Preview
-You can add screenshots of the project here.
-
-```
-![Project Screenshot](assets/images/preview.png)
-```
-
 ## What I Learned
 - How to build layouts using Tailwind CSS
 - How to create responsive designs with breakpoints
