@@ -25,6 +25,10 @@ The goal of this project is to practice building a responsive user interface usi
 - How to create responsive designs with breakpoints
 - How to design UI without writing traditional CSS
 
+## 🚧 Project Status
+
+This project is currently in progress as part of my training with SEF Academy.
+
 ## Future Improvements
 - Add more UI sections
 - Improve responsiveness
